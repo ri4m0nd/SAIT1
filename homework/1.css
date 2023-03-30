@@ -1,0 +1,21 @@
+
+h2{
+  margin: 0%;
+
+}
+#os{
+  margin: 0%;
+  border: black solid 3px;
+}
+#oss{
+   margin: 0%;
+  border: black solid 3px;
+  text-align: center;
+  color: orange;
+}
+#osss{
+   margin: 0%;
+  border: black solid 3px;
+  text-align: center;
+  color: #672db6;
+}
